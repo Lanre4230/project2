@@ -1,0 +1,16 @@
+{
+  "name": "Lirilo",
+  "version": "1.0.0",
+  "description": "Lirilo app",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "npm": "^10.1.0"
+  
+  }
+}
